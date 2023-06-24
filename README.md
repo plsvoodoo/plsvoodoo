@@ -5,6 +5,9 @@ Welcome to the Voodoo Meme Coin project!
 ## Introduction
 Voodoo is a decentralized meme coin built on the PulseChain network. Our mission is to provide a fun and engaging platform for meme enthusiasts while leveraging the power and security of blockchain technology.
 
+## Smart Contract
+The Voodoo Meme Coin smart contract can be found at the following address on the PulseChain network: 0x1c5f8e8E84AcC71650F7a627cfA5B24B80f44f00. Users can interact with the smart contract by using its address on PulseChain-compatible wallets or through dApps built on the PulseChain network
+
 ## Tokenomics
 - **Liquidity Pool (2%):** Voodoo allocates 2% to the liquidity pool, ensuring easy trading, stability, and a reliable backup fund for seamless transactions.
 - **Marketing & Buyback (5%):** To drive adoption and long-term success, 5% of Voodoo tokens are allocated to marketing, buyback, and growth initiatives, benefiting our community and investors.
