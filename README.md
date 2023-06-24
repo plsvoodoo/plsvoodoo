@@ -38,4 +38,4 @@ Voodoo Meme Coin is released under the MIT License. Please refer to the `LICENSE
 
 ## Connect with Us
 - Website: www.plsvoodoo.com
-- Telegram: t.me/plsvoodoo
+- Telegram: www.t.me/plsvoodoo
